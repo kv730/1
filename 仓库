@@ -1,26 +1,30 @@
-
 {
   "urls": [
     {
-      "url": "http://我不是.肥猫.live",
+      "url": "http://肥猫.com",
       "name": "✨我不是肥猫"
+    },
+    {
+      "url": "http://like.肥猫.com/你好",
+      "name": "✨我不是肥猫备用"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🍛饭太硬"
+    },
+    {
+      "url": "http://fan.888484.xyz/tv",
+      "name": "🍛饭太硬备用"
     },
     {
       "url": "http://rihou.vip:88/荷城茶秀",
       "name": "💖荷城茶秀"
     },
     {
-      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "url": "https://weixine.net/ysc.json",
       "name": "🦜运输车"
     },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "🍛饭太硬"
-    },
-    {
-      "url": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json",
-      "name": "👨‍💻玉玉软件"
-    },
+
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "👩‍🎓巧儿"
@@ -30,44 +34,52 @@
       "name": "🚀香雅情线路"
     },
     {
-      "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-      "name": "🐠PG线路"
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "🦕我不是摸鱼"
     },
     {
-      "url": "https://agit.ai/ccy/v/raw/branch/master/v",
-      "name": "📺小猫咪"
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+      "name": "📺PG线路"
     },
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🌪南风线路"
+      "url": "http://www.wya6.cn/tv/yc.json",
+      "name": "🌪无意线路"
     },
     {
-      "url": "https://tvbox.cainisi.cf",
+      "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "♉️菜妮丝"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=派大星",
-      "name": "🦊欧歌派大星"
+      "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+      "name": "🦊欧歌线路"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=派大星",
-      "name": "🌙欧歌派大星学习集合"
+      "url": "https://xhdwc.tk/0",
+      "name": " 🎯纯一骚零"
     },
     {
-      "url": "https://100km.top/0",
-      "name": " 🎯秘密"
+      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
+      "name": "🆗OK猫"
     },
     {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "🍀神秘小米"
+      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+      "name": "👨‍🔬天威科技"
     },
     {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "⭐云星日记家庭版升级"
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz",
+      "name": "🍀王二小放牛娃"
+    },
+    {
+      "url": "http://itvbox.cc/云星日记",
+      "name": "⭐云星日记"
      },
     {
-      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-      "name": "🗂分享者"
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+      "name": "🈚吾爱路线"
+     },
+    {
+      "url": "http://meowtv.top/tv",
+      "name": "🗂喵影视"
      }
   ]
 }
